@@ -11,8 +11,8 @@
 
 - 💻 Full Stack Developer working with **React**, **Django**, and **REST APIs**
 - 🛠 Strong experience in **frontend + backend** web development
-- 🎥 Passionate content creator (Travel & Dance)
-- 📫 Reach me: `your-email@example.com`
+- 🎥 Passionate for Singing & Dancing 
+- 📫 Reach me: `ruhelabhishek@gmail.com`
 
 ---
 
